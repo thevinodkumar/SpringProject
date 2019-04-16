@@ -1,1 +1,1 @@
-<jsp:forward page="register.htm"/>
+<jsp:forward page="re.htm"/>
