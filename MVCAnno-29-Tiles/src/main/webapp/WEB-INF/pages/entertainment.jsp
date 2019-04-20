@@ -2,7 +2,6 @@
 	pageEncoding="ISO-8859-1"%>
 
 <h1 style="color: red; text-align: center;">Entertainment</h1>
-<br>
 <p>The whole world is waiting for the release of 'Avengers:
 	Endgame'. The film is touted to be the biggest blockbuster in cinema
 	history. Read Also: Robert Downey Jr. to Avengers fan: Don't give up,

@@ -12,15 +12,17 @@ div {
 	color: orange;
 }
 </style>
-<header>
-	<tiles:insertAttribute name="header" />
-</header>
-<table border="0%" width="100%">
+<table border="0" width="100%" height="100%">
 	<tr>
-		<td><tiles:insertAttribute name="menu" /></td>
-		<td><tiles:insertAttribute name="body" /></td>
+		<td colspan="2" height="30%" width="100%"><tiles:insertAttribute name="header" />
+		</td>
 	</tr>
-</table>
-<footer>
+
+	<tr>
+		<td width="20%" height="50%"><tiles:insertAttribute name="menu" /></td>
+		<td width="70%" height="50%"><tiles:insertAttribute name="body" /></td>
+	</tr>
+	<tr><td colspan="2" height="20%">
 	<tiles:insertAttribute name="footer" />
-</footer>
+</td></tr>
+</table>

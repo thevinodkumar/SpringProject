@@ -1,7 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"%>
 
 <h1 style="color: red; text-align: center;">Political news</h1>
-<br>
 <p>Deve Gowda Was Much Better PM Than Modi, May Take on Big Role
 	After 2019, Says Kumaraswamy</p>
 <p>Karnataka chief minister HD Kumaraswamy on Saturday said that his

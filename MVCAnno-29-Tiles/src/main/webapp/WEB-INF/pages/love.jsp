@@ -3,8 +3,6 @@
 
 
 <h1 style="color: red;text-align: center;">Love ?</h1>
-<br>
-
 	<p>Love Matters is a global program providing information on
 		relationships, sex and love. The idea was first developed in the
 		Netherlands by the independent media producer by Michele Ernsting and
