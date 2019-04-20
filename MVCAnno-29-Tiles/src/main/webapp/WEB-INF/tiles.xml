@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC  
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"  
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+
+<tiles-definitions>
+	<definition name="base" template="/WEB-INF/pages/layout.jsp">
+		<put-attribute name="header" value="/WEB-INF/pages/header.jsp" />
+		<put-attribute name="footer" value="/WEB-INF/pages/footer.jsp" />
+		<put-attribute name="body"  value="" />
+		<put-attribute name="menu"	value="/WEB-INF/pages/menu.jsp" />
+	</definition>
+	
+	<definition name="home" extends="base">
+		<put-attribute name="body" value="/WEB-INF/pages/home.jsp"/>
+	</definition>
+	
+	<definition name="sports" extends="base">
+		<put-attribute name="body" value="/WEB-INF/pages/sports.jsp"/>
+	</definition>
+	
+	<definition name="political" extends="base">
+		<put-attribute name="body" value="/WEB-INF/pages/political.jsp"/>
+	</definition>
+	
+	<definition name="love" extends="base">
+		<put-attribute name="body" value="/WEB-INF/pages/love.jsp"/>
+	</definition>
+	<definition name="entertainment" extends="base">
+		<put-attribute name="body" value="/WEB-INF/pages/entertainment.jsp"/>
+	</definition>
+	
+</tiles-definitions>
