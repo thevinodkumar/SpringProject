@@ -3,4 +3,3 @@
 
 
 <h1 align="center">Welcome to My Portal</h1>
-<img src="welcome.jpg" height="70%" width="70%">

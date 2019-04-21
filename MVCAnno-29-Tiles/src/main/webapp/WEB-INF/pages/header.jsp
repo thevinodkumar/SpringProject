@@ -10,5 +10,5 @@ marquee {
 <h1 align="center" style="color: highlight;">My Portal</h1>
 <h3 align="center">do not become some one parrot</h3>
 <marquee>
-	<h5 style="color: white;font-size: 15px">latest news::alekhya dating with penchal</h5>
+	<h5 style="color: white;font-size: 15px">latest news::"---" dating with penchal</h5>
 </marquee>
