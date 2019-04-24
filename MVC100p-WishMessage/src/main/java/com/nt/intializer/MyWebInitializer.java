@@ -31,8 +31,6 @@ public class MyWebInitializer implements WebApplicationInitializer {
 		reg=ctx.addServlet("ds", servlet);
 		reg.addMapping("*.htm");
 		reg.setLoadOnStartup(2);
-		
-		
 	}
 
 }
